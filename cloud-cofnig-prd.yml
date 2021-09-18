@@ -1,1 +1,2 @@
-cloud-cofnig-prd
+config:
+  info: master branch, cloud-config/config-prd.yml version=1
